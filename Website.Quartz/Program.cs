@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace Website.Quartz
 {
+    /// <summary>
+    /// 高级任务调度Quartz
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
